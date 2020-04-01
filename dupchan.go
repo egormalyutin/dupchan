@@ -1,4 +1,4 @@
-// This package provides duplicable channels, which can help you to organize
+// This package implements duplicable channels, which can help you to organize
 // your asynchronous application.
 package dupchan
 
