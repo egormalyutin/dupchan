@@ -1,6 +1,6 @@
 # dupchan
 
-[![Godoc](https://godoc.org/egormalyutin/dupchan?status.svg)](https://godoc.org/egormalyutin/dupchan)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/egormalyutin/dupchan)
 
 This package implements duplicable channels in Go, which can help you to organize your asynchronous application.
 
